@@ -1,3 +1,3 @@
-export AddToList from './assets/add-to-list.svg';
-export AirPlay from './assets/airplay.svg';
-export Applause from './assets/applause.svg';
+export AddToList from './src/assets/add-to-list.svg';
+export AirPlay from './src/assets/airplay.svg';
+export Applause from './src/assets/applause.svg';
