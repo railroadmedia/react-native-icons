@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 9 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"><path d="M2.632,3.76l0,0.752c0,0.415 0.338,0.752 0.752,0.752l1.504,0c0.415,0 0.752,-0.337 0.752,-0.752l0,-0.752l2.257,0l0,2.633c0,0.415 -0.337,0.752 -0.752,0.752l-6.017,0c-0.415,0 -0.752,-0.337 -0.752,-0.752l0,-2.633l2.256,0Zm0.752,-0.376l1.503,0l0,1.128l-1.503,0l0,-1.128Zm1.88,-3.384c0.415,0 0.753,0.338 0.753,0.752l0,0.752l1.504,0c0.415,0 0.752,0.337 0.752,0.752l0,1.128l-2.633,0c0,-0.414 -0.337,-0.752 -0.752,-0.752l-1.504,0c-0.414,0 -0.752,0.338 -0.752,0.752l-2.632,0l0,-1.128c0,-0.415 0.337,-0.752 0.752,-0.752l1.504,0l0,-0.752c0,-0.414 0.337,-0.752 0.752,-0.752l2.256,0Zm0,1.504l0,-0.752l-2.256,0l0,0.752l2.256,0Z" style="fill-rule:nonzero;"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:serif="http://www.serif.com/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100"
+	 style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<path d="M31.8,52.3v9.1c0,5,4.1,9.1,9.1,9.1h18.2c5,0,9.1-4.1,9.1-9.1v-9.1h27.3v31.8c0,5-4.1,9.1-9.1,9.1H13.6
+	c-5,0-9.1-4.1-9.1-9.1V52.3H31.8L31.8,52.3z M40.9,47.7h18.2v13.6H40.9L40.9,47.7L40.9,47.7z M63.6,6.8c5,0,9.1,4.1,9.1,9.1V25h18.2
+	c5,0,9.1,4.1,9.1,9.1v13.6H68.2c0-5-4.1-9.1-9.1-9.1H40.9c-5,0-9.1,4.1-9.1,9.1H0V34.1c0-5,4.1-9.1,9.1-9.1h18.2v-9.1
+	c0-5,4.1-9.1,9.1-9.1L63.6,6.8L63.6,6.8z M63.6,25v-9.1H36.4V25H63.6z"/>
+</svg>
